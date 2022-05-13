@@ -169,7 +169,6 @@ bool Calibration::calibration(
                    "\t\tif your calibration is successful or not.\n\n" << std::flush;
         return true;
     }
-
     else{
         return false;
     }
