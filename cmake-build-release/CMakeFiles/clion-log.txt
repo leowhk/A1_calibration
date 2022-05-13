@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/leokan/Documents/TUDelft/GEO1016-3DV/A1_Calibration/A1_Calibration_Code -B /Users/leokan/Documents/TUDelft/GEO1016-3DV/A1_Calibration/A1_Calibration_Code/cmake-build-release
+-- Easy3D: I'am working on a 64-bit Darwin
+-- OpenGL libraries: /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework;/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework
+-- Using Cocoa for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/leokan/Documents/TUDelft/GEO1016-3DV/A1_Calibration/A1_Calibration_Code/cmake-build-release
